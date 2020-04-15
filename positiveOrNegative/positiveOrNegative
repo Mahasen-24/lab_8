@@ -1,0 +1,15 @@
+run:
+Hello in my app :)
+Enter the number :
+4
+The number you entered is positive ..
+Do you want to continue ?? Enter 1 to continue ,0 to stop
+1
+Hello in my app :)
+Enter the number :
+-4
+The number you entered is negative ..
+Do you want to continue ?? Enter 1 to continue ,0 to stop
+0
+Thank you for using my app :)
+BUILD SUCCESSFUL (total time: 15 seconds)
